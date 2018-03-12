@@ -1,7 +1,7 @@
 # CS351_ChatRoom
 
 ## Authors of the code
-Christopher Skinner\n
+Christopher Skinner Line Return
 Alex Anastassatos
 Original Author of the code: Thomas Otero
 
