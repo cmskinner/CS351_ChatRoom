@@ -1,7 +1,7 @@
 # CS351_ChatRoom
 
 ## Authors of the code
-Christopher Skinner
+Christopher Skinner\n
 Alex Anastassatos
 Original Author of the code: Thomas Otero
 
